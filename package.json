@@ -1,6 +1,6 @@
 {
   "name": "@aeq/executors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Command pattern implementations",
   "main": "index.ts",
   "scripts": {
