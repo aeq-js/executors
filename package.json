@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aeq-js/executors/issues"
   },
-  "homepage": "https://github.com/aeq-js/executors#readme"
+  "homepage": "https://github.com/aeq-js/executors#readme",
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
 }
